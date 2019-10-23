@@ -1,0 +1,19 @@
+body {
+	background: #FFD4D4 
+}
+
+h1, h2 {
+	font-family: verdana ;
+	color: #FF7F7F ;
+	font-style: italic;
+}
+ul, ol {
+	font-family: cursive;
+	color: #E89C55 ;
+}
+div {
+	margin: 50px;
+}
+[data-meat] {
+	color: #A55000 
+}
